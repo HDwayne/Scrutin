@@ -1,4 +1,4 @@
-# ProjetS3 - scurtin
+# ProjetS3 - Scrutin
 # Installation doxygen
 
 `$ sudo apt-get install doxygen`
